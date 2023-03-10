@@ -113,7 +113,6 @@ six==1.16.0
 soupsieve==2.3.2.post1
 stack-data==0.5.0
 ta==0.10.2
-TA-Lib @ file:///F:/Nova%20pasta%20%282%29/TA_Lib-0.4.24-cp310-cp310-win_amd64.whl
 tenacity==8.0.1
 tensorboard==2.11.2
 tensorboard-data-server==0.6.1
